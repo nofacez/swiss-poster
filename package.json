@@ -1,0 +1,19 @@
+{
+  "name": "swiss-poster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nofacez/swiss-poster.git"
+  },
+  "author": "nofacez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nofacez/swiss-poster/issues"
+  },
+  "homepage": "https://github.com/nofacez/swiss-poster#readme"
+}
